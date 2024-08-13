@@ -1,4 +1,4 @@
-<br><strong>카트플러그 버전 1.0.1이 배포되었습니다!<strong><br>
+<br><strong>카트플러그 버전 1.0.1이 배포되었습니다!</strong><br>
 주요 변경사항:<br>
 C 드라이브 이외에 TCGAME 또는 KartRider 설치 시 경로 변경이 가능합니다.<br>
 TCG 경로이동: /tcgame C:\Program Files (x86)\TCGAME<br>
