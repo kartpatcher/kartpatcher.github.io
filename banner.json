@@ -1,12 +1,12 @@
 [
     {
-        "image": "https://kartpatcher.github.io/banner/홍보배너제작중.png",
+        "image": "https://kartpatcher.github.io/banner/0815패치노트.png",
         "isStatic": true,
         "link": "https://kartpatcher.github.io/static/240815.html"
     },
     {
-        "image": "https://kartpatcher.github.io/banner/홍보배너제작중.png",
+        "image": "https://kartpatcher.github.io/banner/크로스오버전.png",
         "isStatic": false,
-        "link": "https://www.youtube.com/watch?v=M8VvGsmb4dU"
+        "link": "https://popkart.tiancity.com/homepage/event/2024/kr240725act/?evt=1"
     }
 ]
