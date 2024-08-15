@@ -5,13 +5,8 @@
         "link": "https://kartpatcher.github.io/static/240815.html"
     },
     {
-        "image": "https://kartpatcher.github.io/banner/크로스오버전.png",
+        "image": "https://kartpatcher.github.io/banner/네모인형뽑기.png",
         "isStatic": false,
-        "link": "https://popkart.tiancity.com/homepage/event/2024/kr240725act/?evt=1"
-    },
-    {
-        "image": "https://kartpatcher.github.io/banner/0814한글패치.png",
-        "isStatic": true,
-        "link": "https://kartpatcher.github.io/static/240814.html"
+        "link": "https://popkart.tiancity.com/homepage/event/2024/kr240815act/?evt=1"
     }
 ]
