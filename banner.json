@@ -1,5 +1,10 @@
 [
     {
+        "image": "https://kartpatcher.github.io/banner/계정정지.png",
+        "isStatic": true,
+        "link": "https://kartpatcher.github.io/static/faq.html"
+    },
+    {
         "image": "https://kartpatcher.github.io/banner/0815패치노트.png",
         "isStatic": true,
         "link": "https://kartpatcher.github.io/static/240815.html"
