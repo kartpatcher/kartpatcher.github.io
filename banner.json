@@ -5,6 +5,11 @@
         "link": "https://kartpatcher.github.io/static/faq.html"
     },
     {
+        "image": "https://kartpatcher.github.io/banner/건전지.png",
+        "isStatic": true,
+        "link": "https://kartpatcher.github.io/static/battery.html"
+    },
+    {
         "image": "https://kartpatcher.github.io/banner/0815패치노트.png",
         "isStatic": true,
         "link": "https://kartpatcher.github.io/static/240815.html"
