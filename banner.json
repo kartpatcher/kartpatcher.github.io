@@ -5,18 +5,13 @@
         "link": "https://kartpatcher.github.io/static/faq.html"
     },
     {
-        "image": "https://kartpatcher.github.io/banner/건전지.png",
-        "isStatic": true,
-        "link": "https://kartpatcher.github.io/static/battery.html"
-    },
-    {
         "image": "https://kartpatcher.github.io/banner/0815패치노트.png",
         "isStatic": true,
         "link": "https://kartpatcher.github.io/static/240815.html"
     },
     {
-        "image": "https://kartpatcher.github.io/banner/네모인형뽑기.png",
+        "image": "https://kartpatcher.github.io/banner/공식디스코드.png",
         "isStatic": false,
-        "link": "https://popkart.tiancity.com/homepage/event/2024/kr240815act/?evt=1"
+        "link": "https://discord.gg/FjA2EqHKBB"
     }
 ]
