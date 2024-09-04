@@ -1,7 +1,17 @@
 [
     {
-        "image": "https://kartpatcher.github.io/banner/붐힐교환소.png",
+        "image": "https://kartpatcher.github.io/banner/계정정지.png",
+        "isStatic": true,
+        "link": "https://kartpatcher.github.io/static/faq.html"
+    },
+    {
+        "image": "https://kartpatcher.github.io/banner/0822패치노트.png",
+        "isStatic": true,
+        "link": "https://kartpatcher.github.io/static/240822.html"
+    },
+    {
+        "image": "https://kartpatcher.github.io/banner/공식디스코드.png",
         "isStatic": false,
-        "link": "tcgame://kart"
+        "link": "https://discord.gg/FjA2EqHKBB"
     }
 ]
