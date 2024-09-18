@@ -5,6 +5,11 @@
         "link": "https://kartpatcher.github.io/static/faq.html"
     },
     {
+        "image": "https://kartpatcher.github.io/banner/seoulgom1.png",
+        "isStatic": true,
+        "link": "https://kartpatcher.github.io/static/warning.html"
+    },
+    {
         "image": "https://kartpatcher.github.io/banner/0822패치노트.png",
         "isStatic": true,
         "link": "https://kartpatcher.github.io/static/240916.html"
