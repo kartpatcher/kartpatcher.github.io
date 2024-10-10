@@ -18,5 +18,10 @@
         "image": "https://kartpatcher.github.io/banner/디스코드.png",
         "isStatic": false,
         "link": "https://discord.gg/FjA2EqHKBB"
+    },
+    {
+        "image": "https://kartpatcher.github.io/banner/개소리해명.png",
+        "isStatic": false,
+        "link": "https://www.youtube.com/watch?v=rLQGsJY2tYA"
     }
 ]
